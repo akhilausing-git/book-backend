@@ -136,8 +136,8 @@ google.books.api.key=YOUR_GOOGLE_BOOKS_API_KEY
   }
 
 ## Folder Structure
-
-├──BookManagementSystem(1)/
+```
+  ├──BookManagementSystem(1)/
    ├──BookManagementSystem/
    │   ├──book-management-frontend/      # React frontend
    │           ├── public/
@@ -162,3 +162,4 @@ google.books.api.key=YOUR_GOOGLE_BOOKS_API_KEY
    │   ├── service/                 # Business Logic
    │        ├── BookService
    └── application.properties       # Config file
+```
